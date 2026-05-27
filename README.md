@@ -71,7 +71,10 @@ The main goal of this project is to strengthen my Android development skills and
 
 Study project developed during Android lessons about Threads, Coroutines and API integration.   
 
-## Author   
+## Author (under the guidance of Jamilton)
+
 Francisco Cleonis Costa de Souza   
-GitHub: cleonissouza GitHub   
-LinkedIn: Francisco Cleonis Souza LinkedIn   
+Android Developer (Junior)    
+📍 Bristol, UK   
+🔗 GitHub: https://github.com/cleonissouza   
+🔗 LinkedIn: https://www.linkedin.com/in/cleonis-souza/
